@@ -9,7 +9,11 @@ def breakfast(food="frosted flakes")
   puts "Morning is the best time for #{food}!"
 end
 def lunch(food="grilled cheese")
-  puts ""
+  puts "The afternoon is the best time for #{food}!"
+end
+def dinner(food="salmon")
+  puts "The evening is the best time for #{food}!"
+end
 
 
 
